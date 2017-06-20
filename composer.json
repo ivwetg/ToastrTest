@@ -9,5 +9,7 @@
         }
     ],
     "require": {},
-    "autoload":{ "psr-4": { "Ivwetg\\ToastrTest\\": "src/" } }
+    "autoload":{ "psr-4": { "Ivwetg\\ToastrTest\\": "src/" }},
+    "minimum-stability":  "dev"
+
 }
