@@ -1,6 +1,8 @@
 {
     "name": "ivwetg/toastr-test",
     "description": "test for making a package",
+    "minimum-stability":  "dev",
+    "license":"MIT",
     "authors": [
         {
             "name": "ivwetg",
@@ -8,6 +10,6 @@
         }
     ],
     "require": {},
-    "autoload":{ "psr-4": { "Ivwetg\\ToastrTest\\": "src/" }},
-    "minimum-stability":  "dev"
+    "autoload":{ "psr-4": { "Ivwetg\\ToastrTest\\": "src/" }}
+
 }
